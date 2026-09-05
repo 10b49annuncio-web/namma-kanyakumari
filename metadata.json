@@ -1,0 +1,6 @@
+{
+  "name": "Namma Kanyakumari",
+  "description": "Citizen civic engagement and issue reporting platform for Kanyakumari district",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
